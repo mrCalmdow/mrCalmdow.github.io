@@ -25,7 +25,7 @@ type: page
 **Fork于(感谢大神的作品)：[https://github.com/Gaohaoyang/gaohaoyang.github.io](https://github.com/Gaohaoyang/gaohaoyang.github.io) 希望用来记录自己的点滴足迹**
 
 ## 友情链接
-* 后台大牛: [beldon's github](https://githubbadge.appspot.com/beldon?s=1)
+* 后台大牛: [beldon](https://beldon.me/)
 
 ## Comments
 
