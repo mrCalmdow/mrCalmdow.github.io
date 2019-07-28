@@ -26,7 +26,8 @@ type: page
 
 ## 友情链接
 
-[beldon][https://githubbadge.appspot.com/beldon?s=1]
+[beldon后台大牛] [https://githubbadge.appspot.com/beldon?s=1]
+[前端小姐姐] [https://githubbadge.appspot.com/freedomsss?s=1]
 
 ## Comments
 
